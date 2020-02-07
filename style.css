@@ -4,3 +4,6 @@ header {
   background-position: center;
   height: 100vh;
 }
+header img {
+  border-radius: 50%;
+}

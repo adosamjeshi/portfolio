@@ -34,4 +34,15 @@ header img {
       border:5px solid black;
       border-radius:60px;
     }
+    
+  ul li a:hover{
+    background-color: royalblue;
+    color: green;
+  }
+  button:hover{
+    background-color: black;
+    color:grey;
+    font-size: 10px;
+    border-radius: 20%;
+  }
   

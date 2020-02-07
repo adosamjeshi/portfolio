@@ -11,6 +11,13 @@ header img {
   display: flex;
   width: 80%;
   margin: 0 auto;}
+}
+p {
+  color:blueviolet;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 110px
+  
   h3 {
     
     margin-top: 5px;
@@ -67,4 +74,4 @@ header img {
   ul li a {
     color: rgb(10, 10, 238);
     margin-right: 25px;
-  
+  }

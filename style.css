@@ -20,3 +20,11 @@ header img {
     clear: both;
     font-style:italic;
   }
+  #flex{
+    display:flex;
+    border:1px 
+    border-radius: 50px;
+    }
+    .mauano{
+      background-color:whitesmoke;
+    }

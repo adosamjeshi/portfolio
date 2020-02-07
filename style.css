@@ -17,7 +17,7 @@ p {
   text-align: center;
   font-size: 30px;
   margin-top: 110px
-  
+
   h3 {
     
     margin-top: 5px;
@@ -74,4 +74,12 @@ p {
   ul li a {
     color: rgb(10, 10, 238);
     margin-right: 25px;
+  }
+  #project1 {
+    display: flex;
+  }
+  .name{
+    border: 1px solid blue;
+    border-radius: 50px;
+    background-color: white;
   }

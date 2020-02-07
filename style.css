@@ -7,3 +7,7 @@ header {
 header img {
   border-radius: 50%;
 }
+.quote {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;

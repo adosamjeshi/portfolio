@@ -28,3 +28,10 @@ header img {
     .mauano{
       background-color:whitesmoke;
     }
+    .footer{
+      font-size: 60px;
+      padding-top: 10px;
+      border:5px solid black;
+      border-radius:60px;
+    }
+  
